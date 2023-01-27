@@ -40,11 +40,11 @@ I am currently looking into something interesting to do in the world of technolo
 
 <a href="http://www.github.com/KevinKuch"><img src="https://github-readme-stats.vercel.app/api?username=KevinKuch&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="KevinKuch's GitHub stats" /></a>
 
-<a href="http://www.github.com/KevinKuch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinKuch&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/KevinKuch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinKuch&count_private=true&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/KevinKuch"><img src="https://activity-graph.herokuapp.com/graph?username=KevinKuch&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/KevinKuch"><img src="https://activity-graph.herokuapp.com/graph?username=KevinKuch&count_private=true&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKuch&&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&title_color=ef4444&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKuch&count_private=true&&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&title_color=ef4444&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Support Me
