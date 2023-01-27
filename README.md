@@ -8,7 +8,7 @@ I am currently looking into something interesting to do in the world of technolo
 
 * 🌍  I'm based in Montreal, Quebec
 * ✉️  You can contact me at [KuchKevin96@gmail.com](mailto:KuchKevin96@gmail.com)
-* 🧠  I'm learning React at school
+* 🧠  I'm learning React in school
 * 🤝  I'm open to collaborating on interesting projects and also learn at the same time
 * ⚡  I love those cute red pandas... Let me adopt them please..
 
