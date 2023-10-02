@@ -6,7 +6,7 @@ Multimedia Student
 
 I am currently looking into something interesting to do in the world of technologies while learning new things.
 
-* 🌍  I'm based in Montreal, Quebec
+* 🌍  I'm based in Montréal, Québec
 * ✉️  You can contact me at [KuchKevin96@gmail.com](mailto:kuchkevin96@gmail.com)
 * 🧠  I'm learning React in school
 * 🤝  I'm open to collaborating on interesting projects and also learn at the same time
