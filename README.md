@@ -44,7 +44,7 @@ I am currently looking into something interesting to do in the world of technolo
 
 <b>My GitHub Stats</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=sythwave)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkuch&show_icons=true&theme=sythwave)
 
 <a href="http://www.github.com/KevinKuch"><img src="https://github-readme-stats.vercel.app/api?username=KevinKuch&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="KevinKuch's GitHub stats" /></a>
 
