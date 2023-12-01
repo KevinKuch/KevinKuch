@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Kuch
 ==================================================================================================================================
 
-Multimedia Student
+Front-end Developper
 ------------------
 
 I am currently looking into something interesting to do in the world of technologies while learning new things.
@@ -31,10 +31,10 @@ I am currently looking into something interesting to do in the world of technolo
 
 <b>My GitHub Stats</b>
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinkuch&show_icons=true&theme=synthwave)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KevinKuch&theme=dracula)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKuch&count_private=true&&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&title_color=ef4444&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKuch&layout=donut&theme=dracula)](https://github.com/KevinKuch/github-readme-stats)
 
 
 ### Support Me
