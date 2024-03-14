@@ -34,7 +34,7 @@ I am currently looking into something interesting to do in the world of technolo
 [![GitHub Streak](https://streak-stats.demolab.com?user=KevinKuch&theme=dracula)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKuch&layout=donut&theme=dracula&hide=c%23)](https://github.com/KevinKuch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinKuch&layout=donut&theme=dracula&hide=c%23,shaderlab)](https://github.com/KevinKuch/github-readme-stats)
 
 
 ### Support Me
